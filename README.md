@@ -3,7 +3,7 @@ Export tool for people who can't or don't want to use native 1Password export. T
 
 ## Requirements
  * python 3 or higher
- * [op](https://support.1password.com/command-line/)
+ * [op](https://app-updates.agilebits.com/product_history/CLI)
 
 ## Usage
  1. Sign in to your 1password account using `op signin ...`
