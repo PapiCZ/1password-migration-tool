@@ -1,5 +1,5 @@
 # 1Password migration tool
-Export tool for people who can't or don't want to use native 1Password export. This tool will export your documents, groups, items, templates, users and valuts into JSON.
+Export tool for people who can't or don't want to use native 1Password export. This tool will export your documents, groups, items, templates, users and vaults into JSON.
 
 ## Requirements
  * python 3 or higher
